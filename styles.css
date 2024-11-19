@@ -5,3 +5,5 @@ h1{
 #table-2{
 margin: 10px 0;	
 }
+td{padding:1px;
+  border: 1px solid rgb(0,0,0); }
